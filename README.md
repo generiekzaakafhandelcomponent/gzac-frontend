@@ -1,6 +1,6 @@
 # Getting started
 ## Prerequisites
-- Node v16
+- Node v20
 - NPM v8
 
 ## Starting up
