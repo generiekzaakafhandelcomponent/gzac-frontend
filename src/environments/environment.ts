@@ -82,7 +82,8 @@ export const environment: ValtimoConfig = {
     returnToLastUrlAfterTokenExpiration: true,
     allowUserThemeSwitching: true,
     enableCompactModeToggle: true,
-    enableUserNameInTopBarToggle: true
+    enableUserNameInTopBarToggle: true,
+    enableIntermediateSave: true
   }
 };
 
