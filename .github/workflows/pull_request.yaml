@@ -12,8 +12,8 @@ on:
 
 env:
   GITHUB_REGISTRY: ghcr.io
-  DOCKER_IMAGE_NAME: <docker_image_name>
-  GITHUB_NAMESPACE: valtimo-cloud
+  DOCKER_IMAGE_NAME: gzac-frontend
+  GITHUB_NAMESPACE: generiekzaakafhandelcomponent
 
 jobs:
   if_merged:
