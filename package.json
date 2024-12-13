@@ -43,6 +43,7 @@
     "@valtimo/form-management": "12.5.1",
     "@valtimo/keycloak": "12.5.1",
     "@valtimo/layout": "12.5.1",
+    "@valtimo/logging": "12.5.1",
     "@valtimo/migration": "12.5.1",
     "@valtimo/milestone": "12.5.1",
     "@valtimo/object": "12.5.1",

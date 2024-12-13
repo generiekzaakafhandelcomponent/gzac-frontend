@@ -87,6 +87,7 @@ import {
   registerDocumentenApiFormioUploadComponent,
   ZgwModule
 } from '@valtimo/zgw';
+import {LoggingModule} from '@valtimo/logging';
 
 export function tabsFactory() {
   return new Map<string, object>([
@@ -169,7 +170,8 @@ export function tabsFactory() {
     }),
     TranslationManagementModule,
     TaskManagementModule,
-    ZgwModule
+    ZgwModule,
+    LoggingModule
   ],
   providers: [{
     provide: PLUGINS_TOKEN,
